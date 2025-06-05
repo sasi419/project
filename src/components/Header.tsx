@@ -30,7 +30,8 @@ const Header: React.FC = () => {
           <img 
             src="/logo.png"
             alt="Fruit Bites Logo"
-            height="40"
+            height="40px"
+            width="40px"
             className="me-2"
           />
           <span 
