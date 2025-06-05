@@ -28,7 +28,7 @@ const Header: React.FC = () => {
       <Container>
         <Navbar.Brand href="#home" className="d-flex align-items-center">
           <img 
-            src="/logo copy.jpg"
+            src="/logo.png"
             alt="Fruit Bites Logo"
             height="40"
             className="me-2"
