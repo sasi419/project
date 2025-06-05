@@ -32,7 +32,7 @@ const Header: React.FC = () => {
             alt="Fruit Bites Logo"
             height="40px"
             width="40px"
-            className="me-2"
+            className="me-2 rounded-circle"
           />
           <span 
             className={`fw-bold fs-4 ${scrolled ? 'text-gradient' : 'text-white'}`}
